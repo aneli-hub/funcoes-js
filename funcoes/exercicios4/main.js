@@ -1,3 +1,5 @@
+//screva 4 (quatro) funções que aceitam 2 (dois) parâmetros cada, cada uma delas deve realizar uma das 4 (quatro) operações matemáticas básicas (soma, subtração, divisão e adição), retorne o resultado de cada operação em cada uma delas;
+
 function soma(a, b) {
   return a + b;
 }
