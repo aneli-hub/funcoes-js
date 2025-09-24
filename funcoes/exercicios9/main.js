@@ -1,10 +1,1 @@
-//Escreva uma função que aceita 2 (dois) parâmetros e retorna o menor valor dentre eles;
-
-function menorValor(a, b) {
-  if (typeof a !== "number" || typeof b !== "number") {
-    return "Os parâmetros devem ser números.";
-  }
-  return a < b ? a : b;
-}
-
-console.log(menorValor(10, 5)); // 5
+//Escreva uma função para formação do seu nome de programador, pedindo ao usuário seu mês de nascimento e o último número do seu ano de nascimento para compor um nome divertido de programador (Dicas: componha a geração com mais de uma função. A estrutura switch pode ser interessante)
